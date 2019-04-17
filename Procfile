@@ -1,0 +1,1 @@
+web: java -jar target/gitdiagnostic-0.0.1.jar
